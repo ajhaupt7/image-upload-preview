@@ -7,7 +7,7 @@ Nova image field are available here.
 `composer require ajhaupt7/image-upload-preview`
 
 ## Usage
-```
+```php
 use Ajhaupt7\ImageUploadPreview\ImageUploadPreview;
 
 ImageUploadPreview::make('Image')->disk('s3')
