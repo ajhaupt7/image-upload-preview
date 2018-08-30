@@ -1,6 +1,6 @@
 {
     "name": "ajhaupt7/image-upload-preview",
-    "description": "A Laravel Nova field.",
+    "description": "A Laravel Nova field for dragging and dropping images to upload, along with a preview.",
     "keywords": [
         "laravel",
         "nova"
